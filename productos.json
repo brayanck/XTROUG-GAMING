@@ -1,0 +1,1693 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Procesador AMD RYZEN 7 3700X 4 4 GHz AM4 Wraith Prism RGB Led Cooler",
+            "price": 42520,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_RYZEN_7_3700X_4_4_GHz_AM4_Wraith_Prism_RGB_Led.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 2,
+            "title": "Procesador AMD Ryzen 5 1600 AF Zen 12nm AM4 Wraith Stealth Cooler",
+            "price": 19000,
+            "image": "imagenes/productos/micro_procesadores/amd/ryzen_5_1600.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 3,
+            "title": "Procesador AMD A12 9800E 3.8Ghz APU AM4 Radeon R7",
+            "price": 19500,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_A12_9800E_3.8Ghz_APU_AM4___Radeon_R7.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 4,
+            "title": "Procesador AMD RYZEN 9 3950X 4 7GHz Turbo AM4",
+            "price": 104770,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_RYZEN_9_3950X_4_7GHz_Turbo_AM4.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 5,
+            "title": "Procesador AMD RYZEN 7 3800XT 4.7GHz Turbo",
+            "price": 44050,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_RYZEN_7_3800XT_4.7GHz_Turbo.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+
+        },
+        {
+            "id": 6,
+            "title": "Procesador AMD Ryzen 7 5800X 4 7GHz Turbo AM4 No incluye Cooler",
+            "price": 59350,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_Ryzen_7_5800X_4_7GHz_Turbo_AM4_No_incluye_Cooler.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+
+        },
+        {
+            "id": 7,
+            "title": "Procesador AMD Ryzen 7 5700G 4 6GHz Turbo Wraith Stealth Cooler",
+            "price": 60000,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_Ryzen_7_5700G_4_6GHz_Turbo_Wraith_Stealth_Cooler.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 8,
+            "title": "Procesador AMD Ryzen 5 5600X 4 6GHz Turbo AM4 Wraith Stealth Cooler",
+            "price": 40140,
+            "image": "imagenes/productos/micro_procesadores/amd/Procesador_AMD_Ryzen_5_5600X_4_6GHz_Turbo_AM4_Wraith_Stealth_Cooler.jpg",
+            "category": "procesadoresAmd",
+            "tipo": "componentes"
+        },
+
+        {
+            "id": 9,
+            "title": "Notebook Lenovo 14 AMD Pro A4-4350B 4GB 500GB DOS",
+            "price": 54499,
+            "image": "imagenes/notebook/Notebook_Lenovo_14_AMD_Pro_A4-4350B_4GB_500GB_DOS.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 10,
+            "title": "Notebook HP 14 Ryzen 3 3250U 4GB 1TB Win10 US",
+            "price": 71599,
+            "image": "imagenes/notebook/Notebook_HP_14__Ryzen_3_3250U_4GB_1TB_Win10_US.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 11,
+            "title": "Notebook HP 240 14 Core i3-1005G1 4GB 1TB FreeDos US",
+            "price": 76800,
+            "image": "imagenes/notebook/Notebook_HP_240_14__Core_i3-1005G1_4GB_1TB_FreeDos_US_.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 12,
+            "title": "Notebook HDC HY 15.6 FHD Core i3 1005G 8GB SSD 256GB Win 10",
+            "price": 78000,
+            "image": "imagenes/notebook/Notebook_HDC_HY_15.6_FHD__Core_i3_1005G_8GB_SSD_256GB_Win_10.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 13,
+            "title": "Notebook ASUS Vivobook F512J 15.6 i3 1005G1 4GB 128GB WIN10",
+            "price": 78200,
+            "image": "imagenes/notebook/Notebook_ASUS_Vivobook_F512J_15.6__i3_1005G1_4GB_128GB_WIN10.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 14,
+            "title": "Notebook ASUS ZenBook UX433FLC 14 i5 10210U 8GB SSD 512GB Optane 32GB WIN10",
+            "price": 141499,
+            "image": "imagenes/notebook/Notebook_ASUS_ZenBook_UX433FLC_14__i5_10210U_8GB_SSD_512GB_Optane_32GB_WIN10.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 15,
+            "title": "Notebook ASUS ZenBook UX425EA 14 Core i5 1135G7 8GB SSD 512GB WIN10",
+            "price": 143699,
+            "image": "imagenes/notebook/Notebook_ASUS_ZenBook_UX425EA_14__Core_i5_1135G7_8GB_SSD_512GB__WIN10.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 16,
+            "title": "Notebook Gamer ASUS TUF FX506 15.6 Core i5 10300H GTX 1650Ti 4GB 512GB Win10 144Hz",
+            "price": 149800,
+            "image": "imagenes/notebook/Notebook_Gamer_ASUS_TUF_FX506_15.6__Core_i5_10300H_GTX_1650Ti_4GB_512GB_Win10_144Hz_.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 17,
+            "title": "Notebook Lenovo IP 3 15 Core i5-10300H 8GB M.2 128GB 1TB GTX 1650 WIN10",
+            "price": 154000,
+            "image": "imagenes/notebook/Notebook_Lenovo_IP_3_15__Core_i5-10300H_8GB_M.2_128GB_1TB_GTX_1650_WIN10.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 18,
+            "title": "Notebook ASUS ZenBook UX433 14 i5 10210U 8GB SSD 512GB FREE DOS",
+            "price": 163900,
+            "image": "imagenes/notebook/Notebook_ASUS_ZenBook_UX433FLC_14__i5_10210U_8GB_SSD_512GB_Optane_32GB_WIN10.jpg",
+            "tipo": "notebooks"
+
+        },
+        {
+            "id": 19,
+            "title": "Notebook ASUS ROG STRIX G512LV 15.6 144Hz i5-10300H 8GB 512Gb NVMe 1650Ti FreeDOS",
+            "price": 166.499,
+            "image": "imagenes/notebook/Notebook_ASUS_ROG_STRIX_G512LV_15.6__144Hz__i5-10300H_8GB_512Gb_NVMe_1650Ti_FreeDOS.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 20,
+            "title": "Notebook ASUS ZenBook UX425EA 14 Core i7 1165G7 16GB M.2 512GB WIN10",
+            "price": 174699,
+            "image": "imagenes/notebook/Notebook_ASUS_ZenBook_UX425EA_14__Core_i7_1165G7_16GB_M.2_512GB__WIN10.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 21,
+            "title": "Notebook HP OMEN 15 i7 10750H 8GB 512GB Optane 32GB GF1650TI W10H",
+            "price": 193800,
+            "image": "imagenes/notebook/Notebook_HP_OMEN_15__i7_10750H_8GB_512GB_Optane_32GB_GF1650TI__W10H.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 22,
+            "title": "Notebook ASUS TUF FA506 15.6 144Hz Ryzen 7 4800H GTX1660Ti 6GB DDR4 16GB M.2 512GB W10",
+            "price": 208000,
+            "image": "imagenes/notebook/Notebook_ASUS_TUF_FA506_15.6__144Hz_Ryzen_7_4800H_GTX1660Ti_6GB_DDR4_16GB__M.2_512GB_W10_.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 23,
+            "title": "Notebook ASUS ROG ZEPHYRUS 14 WQHD RYZEN 9 4900HS 16GB 1TB NVMe RTX 2060",
+            "price": 295200,
+            "image": "imagenes/notebook/Notebook_ASUS_ROG_ZEPHYRUS_14__WQHD__RYZEN_9_4900HS_16GB_1TB_NVMe_RTX_2060.jpg",
+            "tipo": "notebooks"
+        },
+        {
+            "id": 24,
+            "title": "Procesador Intel Celeron G5925 3.6GHz Socket 1200",
+            "price": 7890,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Celeron_G5925_3.6GHz_Socket_1200.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 25,
+            "title": "Procesador Intel Core i3 10100F 4.3GHz Turbo 1200 Comet Lake",
+            "price": 13780,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i3_10100F_4.3GHz_Turbo_1200_Comet_Lake.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 26,
+            "title": "Procesador Intel Core i3 10105 S1200 10th Gen Comet Lake",
+            "price": 16480,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i3_10105_S1200_10th_Gen_Comet_Lake.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 27,
+            "title": "Procesador Intel Core i5 9600KF Turbo 1151 9th Gen Coffee Lake",
+            "price": 21373,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i5_9600KF_Turbo_1151_9th_Gen_Coffee_Lake.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 28,
+            "title": "Procesador Intel Core i5 9400 4.1GHz Turbo 1151 9th Gen",
+            "price": 26670,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i5_9400_4.1GHz_Turbo_1151_9th_Gen.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 29,
+            "title": "Procesador Intel Core i5 9600K 4.6GHz Turbo 1151 9th Gen Coffee Lake",
+            "price": 27090,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i5_9600K_4.6GHz_Turbo_1151_9th_Gen_Coffee_Lake.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 30,
+            "title": "Procesador Intel Core i5 10600KF 4.8GHz Turbo Socket 1200",
+            "price": 27830,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i5_10600KF_4.8GHz_Turbo_Socket_1200.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 31,
+            "title": "Procesador Intel Core i7 9700KF 4.9GHz Turbo 1151 Coffee Lake",
+            "price": 34950,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i7_9700KF_4.9GHz_Turbo_1151_Coffee_Lake.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 32,
+            "title": "Procesador Intel Core i9 10900F 5.2GHz Turbo",
+            "price": 56730,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i9_10900F_5.2GHz_Turbo.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 33,
+            "title": "Procesador Intel Core i9 10900KF 5.3GHz Turbo",
+            "price": 64800,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i9_10900KF_5.3GHz_Turbo.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 34,
+            "title": "Procesador Intel Core i9 11900K 5.3GHz Turbo Socket 1200",
+            "price": 87590,
+            "image": "imagenes/productos/micro_procesadores/intel/Procesador_Intel_Core_i9-11900K_5.3GHz_Turbo_Socket_1200.jpg",
+            "category": "procesadoresIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 35,
+            "title": "Mother Gigabyte GA A320M H AM4",
+            "price": 6400,
+            "image": "imagenes/productos/motherBoard/amd/Mother_Gigabyte_GA-A320M-H_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 36,
+            "title": "Mother Asrock A520M-HDV AM4",
+            "price": 6540,
+            "image": "imagenes/productos/motherBoard/amd/Mother_Asrock_A520M-HDV_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 37,
+            "title": "Mother ASUS PRIME A520M-K AM4",
+            "price": 6600,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_PRIME_A520M-K_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 38,
+            "title": "Mother ASUS PRIME A320M-K Ryzen 2da Gen Ready M-ATX",
+            "price": 6729,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_PRIME_A320M-K_Ryzen_2da_Gen_Ready_M-ATX.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 39,
+            "title": "Mother Gigabyte A520M H AM4",
+            "price": 7200,
+            "image": "imagenes/productos/motherBoard/amd/Mother_Gigabyte_A520M_H_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 40,
+            "title": "Mother Gigabyte AB350M V2.0 DS3H AM4",
+            "price": 7430,
+            "image": "imagenes/productos/motherBoard/amd/Mother_Gigabyte_AB350M_V2.0_DS3H_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 41,
+            "title": "Mother Asrock A520M/ac AM4",
+            "price": 8580,
+            "image": "imagenes/productos/motherBoard/amd/asrock_a520m_ac.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 42,
+            "title": "Mother ASUS PRIME B450M-A II AM4",
+            "price": 8750,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_PRIME_B450M-A_II_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 43,
+            "title": "Mother ASUS PRIME B550M-K AM4",
+            "price": 9350,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_PRIME_B550M-K_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 44,
+            "title": "Mother Gigabyte B450 AORUS M RGB FUSION M-ATX",
+            "price": 60000,
+            "image": "imagenes/productos/motherBoard/amd/Mother_Gigabyte_B450_AORUS_M_RGB_FUSION_M-ATX.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 45,
+            "title": "Mother ASUS PRIME X570-P AM4 PCIe Gen4 Dual M.",
+            "price": 17600,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_PRIME_X570-P_AM4_PCIe_Gen4_Dual_M..jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 46,
+            "title": "Mother ASUS ROG STRIX B450-F GAMING II AM4",
+            "price": 20840,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_ROG_STRIX_B450-F_GAMING_II_AM4.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 47,
+            "title": "Mother ASUS ROG STRIX B550-F GAMING AM4 PCI-E 4.0",
+            "price": 31010,
+            "image": "imagenes/productos/motherBoard/amd/Mother_ASUS_ROG_STRIX_B550-F_GAMING_AM4_PCI-E_4.0.jpg",
+            "category": "motherBoardAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 48,
+            "title": "Mother Gigabyte H310M-DS2 SERIE/PARALELO S1151",
+            "price": 7200,
+            "image": "imagenes/productos/motherBoard/intel/Mother_Gigabyte_H310M-DS2_SERIE_PARALELO_S1151.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 49,
+            "title": "Mother ASUS PRIME B365M-A 1151 9th Gen HMDI M.2",
+            "price": 7900,
+            "image": "imagenes/productos/motherBoard/intel/asus_prime_b365m_a.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 50,
+            "title": "Mother Gigabyte B365M DS3H 1151 9th Gen",
+            "price": 8999,
+            "image": "imagenes/productos/motherBoard/intel/Mother_Gigabyte_B365M_DS3H_1151_9th_Gen.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 51,
+            "title": "Mother ASUS PRIME H410M-E Socket 1200 10th Gen",
+            "price": 12399,
+            "image": "imagenes/productos/motherBoard/intel/asus_prime_h410.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 52,
+            "title": "Mother Gigabyte B365M AORUS ELITE 1151 9th",
+            "price": 12800,
+            "image": "imagenes/productos/motherBoard/intel/Mother_Gigabyte_B365M_AORUS_ELITE_1151_9th.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes",
+            "temporada": "oferta"
+        },
+        {
+            "id": 53,
+            "title": "Mother ASUS PRIME Z590-A ATX S1200 10th/11th Gen",
+            "price": 38700,
+            "image": "imagenes/productos/motherBoard/intel/Mother_ASUS_PRIME_Z590-A_ATX_S1200_10th_11th_Gen.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 54,
+            "title": "Mother Gigabyte Z590 Vision G Socket 1200 10th Gen",
+            "price": 40500,
+            "image": "imagenes/productos/motherBoard/intel/Mother_Gigabyte_Z590_Vision_G_Socket_1200_10th_Gen.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 55,
+            "title": "Mother MSI MPG Z590 Gaming Carbon Wifi 11th Gen S1200",
+            "price": 51300,
+            "image": "imagenes/productos/motherBoard/intel/Mother_MSI_MPG_Z590_Gaming_Carbon_Wifi_11th_Gen_S1200.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 56,
+            "title": "Mother ASUS Z590 ROG MAXIMUS XIII HERO WIFI 11th gen s1200",
+            "price": 68320,
+            "image": "imagenes/productos/motherBoard/intel/Mother_ASUS_Z590_ROG_MAXIMUS_XIII_HERO_WIFI_11th_gen_s1200.jpg",
+            "category": "motherBoardIntel",
+            "tipo": "componentes"
+        },
+        {
+            "id": 57,
+            "title": "Placa de Video Zotac GeForce GTX 1660 SUPER 6GB GDDR6 AMP Edition",
+            "price": 83500,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_ASUS_GeForce_GTX_1660_SUPER_6GB_GDDR6_Phoenix_OC.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 58,
+            "title": "Placa de Video ASUS GeForce GTX 1660 SUPER 6GB GDDR6 Phoenix OC",
+            "price": 81500,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_ASUS_GeForce_GTX_1660_SUPER_6GB_GDDR6_Phoenix_OC.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 59,
+            "title": "Placa de Video MSI GeForce GTX 1660 SUPER 6GB GDDR6 Ventus XS OC",
+            "price": 85000,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_MSI_GeForce_GTX_1660_SUPER_6GB_GDDR6_Ventus_XS_OC.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 60,
+            "title": "Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity",
+            "price": 435000,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_Zotac_GeForce_RTX_3090_24GB_GDDR6X_Trinity.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 61,
+            "title": "Placa de Video ASUS GeForce RTX 3070 8GB GDDR6 ROG STRIX GAMING OC",
+            "price": 252500,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_ASUS_GeForce_RTX_3070_8GB_GDDR6_ROG_STRIX_GAMING_OC.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 62,
+            "title": "Placa de Video Gigabyte GeForce RTX 3070 8GB GDDR6 GAMING OC",
+            "price": 240000,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_Gigabyte_GeForce_RTX_3070_8GB_GDDR6_GAMING_OC.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 63,
+            "title": "Placa de Video EVGA GeForce RTX 3090 24GB GDDR6X XC3 ULTRA ICX3 ARGB",
+            "price": 470000,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_EVGA_GeForce_RTX_3090_24GB_GDDR6X_XC3_ULTRA_ICX3_ARGB.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 64,
+            "title": "Placa de Video MSI GeForce RTX 3070 8GB GDDR6 GAMING X TRIO",
+            "price": 240000,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_MSI_GeForce_RTX_3070_8GB_GDDR6_GAMING_X_TRIO.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 65,
+            "title": "Placa de Video EVGA GeForce RTX 3070 8GB GDDR6 FTW3 ULTRA GAMING",
+            "price": 230000,
+            "image": "imagenes/productos/placasDeVideo/nvidia/Placa_de_Video_EVGA_GeForce_RTX_3070_8GB_GDDR6_FTW3_ULTRA_GAMING.jpg",
+            "category": "placaDeVideoNvidia",
+            "tipo": "componentes"
+        },
+        {
+            "id": 66,
+            "title": "Placa de Video MSI Radeon RX 580 8GB GDDR5 ARMOR OC",
+            "price": 110360,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_MSI_Radeon_RX_580_8GB_GDDR5_ARMOR_OC.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 67,
+            "title": "Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 Challenger D",
+            "price": 144500,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Challenger_D.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 68,
+            "title": "Placa de Video MSI Radeon RX 6700 XT 12GB GDDR6 MECH 2X",
+            "price": 148000,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_MSI_Radeon_RX_6700_XT_12GB_GDDR6_MECH_2X.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 69,
+            "title": "Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 Phantom Gaming D",
+            "price": 152500,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_Asrock_Radeon_RX_6700_XT_12GB_GDDR6_Phantom_Gaming_D.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 70,
+            "title": "Placa de Video XFX Radeon RX 6700 XT BLACK 12GB GDDR6 SPEEDSTER QICK 319",
+            "price": 155000,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_XFX_Radeon_RX_6700_XT_BLACK_12GB_GDDR6_SPEEDSTER_QICK_319.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 71,
+            "title": "Placa de Video Sapphire Radeon RX 6700 XT 12GB GDDR6 Nitro+ Gaming OC 11306-01-20T",
+            "price": 160000,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_Sapphire_Radeon_RX_6700_XT_12GB_GDDR6_Nitro+_Gaming_OC_11306-01-20T.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 72,
+            "title": "Placa de Video Sapphire Radeon RX 6700 XT 12GB GDDR6 Nitro+ Gaming OC",
+            "price": 187000,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_Sapphire_Radeon_RX_6700_XT_12GB_GDDR6_Nitro+_Gaming_OC.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 73,
+            "title": "Placa de Video XFX Radeon RX 6800 XT CORE 16GB GDDR6 Speedster MERC 31",
+            "price": 230000,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_XFX_Radeon_RX_6800_XT_CORE_16GB_GDDR6_Speedster_MERC_31.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 74,
+            "title": "Placa de Video MSI Radeon RX 6800 16GB GDDR6 GAMING X TRIO",
+            "price": 262000,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_MSI_Radeon_RX_6800_16GB_GDDR6_GAMING_X_TRIO.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 75,
+            "title": "Placa de Video Asrock Radeon RX 6900 XT 16GB GDDR6 XT OC Formula",
+            "price": 279890,
+            "image": "imagenes/productos/placasDeVideo/amd/Placa_de_Video_Asrock_Radeon_RX_6900_XT_16GB_GDDR6_XT_OC_Formula.jpg",
+            "category": "placaDeVideoAmd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 76,
+            "title": "Memoria Team DDR4 8GB 2400MHz Elite Plus",
+            "price": 5280,
+            "image": "imagenes/productos/memoria_ram/Memoria_Team_DDR4_8GB_2400MHz_Elite_Plus.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 77,
+            "title": "Memoria Adata DDR4 8GB 2666MHz Premier",
+            "price": 5473,
+            "image": "imagenes/productos/memoria_ram/Memoria_Adata_DDR4_8GB_2666MHz_Premier.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 78,
+            "title": "Memoria Crucial DDR4 8GB 3200MHz Value",
+            "price": 5525,
+            "image": "imagenes/productos/memoria_ram/Memoria_Crucial_DDR4_8GB_3200MHz_Value.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 79,
+            "title": "Memoria GeiL DDR4 8GB 3000MHz Super Luce RGB Black",
+            "price": 5637,
+            "image": "imagenes/productos/memoria_ram/Memoria_GeiL_DDR4_8GB_3000MHz_Super_Luce_RGB_Black.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 80,
+            "title": "Memoria Adata DDR4 8GB 3200MHZ XPG Gammix D30 Black",
+            "price": 5831,
+            "image": "imagenes/productos/memoria_ram/Memoria_Adata_DDR4_8GB_3200MHZ_XPG_Gammix_D30_Black.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 81,
+            "title": "Memoria Adata DDR4 8GB 3200MHz XPG Hunter",
+            "price": 6001,
+            "image": "imagenes/productos/memoria_ram/Memoria_Adata_DDR4_8GB_3200MHz_XPG_Hunter.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 82,
+            "title": "Memoria GeiL DDR4 8GB 3200MHz Super Luce RGB Black",
+            "price": 6497,
+            "image": "imagenes/productos/memoria_ram/Memoria_GeiL_DDR4_8GB_3200MHz_Super_Luce_RGB_Black.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 83,
+            "title": "Memoria Adata DDR4 8GB 3200MHz XPG Spectrix D50 RGB",
+            "price": 6501,
+            "image": "imagenes/productos/memoria_ram/Memoria_Adata_DDR4_8GB_3200MHz_XPG_Spectrix_D50_RGB.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 84,
+            "title": "Memoria OLOy DDR4 8GB Warhawk Black RGB 3000MHz CL16",
+            "price": 6539,
+            "image": "imagenes/productos/memoria_ram/Memoria_OLOy_DDR4_8GB_Warhawk_Black_RGB_3000MHz_CL16.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 85,
+            "title": "Memoria Team DDR4 8GB 3200MHz T-Force Delta RGB White",
+            "price": 7010,
+            "image": "imagenes/productos/memoria_ram/Memoria_Team_DDR4_8GB_3200MHz_T-Force_Delta_RGB_White.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 86,
+            "title": "Memoria Team DDR4 16GB 3200MHz T-Force Vulcan Z Grey",
+            "price": 10420,
+            "image": "imagenes/productos/memoria_ram/Memoria_Team_DDR4_16GB_3200MHz_T-Force_Vulcan_Z_Grey.jpg",
+            "category": "memoriaRam",
+            "tipo": "componentes"
+        },
+        {
+            "id": 87,
+            "title": "Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s",
+            "price": 4940,
+            "image": "imagenes/productos/almacenamiento/disco_rigido_hdd_para_pc/disco_hdd_1t.jpg",
+            "category": "almacenamientohdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 88,
+            "title": "Disco Rígido Seagate 2TB Barracuda 256MB 7.2K RPM",
+            "price": 7410,
+            "image": "imagenes/productos/almacenamiento/disco_rigido_hdd_para_pc/disco_hdd_1t.jpg",
+            "category": "almacenamientohdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 89,
+            "title": "Disco Rígido WD 3TB PURPLE 64MB SATA 6.0GB/s",
+            "price": 9620,
+            "image": "imagenes/productos/almacenamiento/disco_rigido_hdd_para_pc/Disco_Rígido_WD_3TB_PURPLE_64MB_SATA_6.0GBs.jpg",
+            "category": "almacenamientohdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 90,
+            "title": "Disco Rigido WD 3TB Red NAS 5.4K RPM 64MB",
+            "price": 11150,
+            "image": "imagenes/productos/almacenamiento/disco_rigido_hdd_para_pc/Disco_Rigido_WD_3TB_Red_NAS_5.4K_RPM_64MB.jpg",
+            "category": "almacenamientohdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 91,
+            "title": "Disco Rigido WD 4TB Red NAS 5.4K 256MB",
+            "price": 12310,
+            "image": "imagenes/productos/almacenamiento/disco_rigido_hdd_para_pc/Disco_Rigido_WD_4TB_Red_NAS_5.4K_256MB.jpg",
+            "category": "almacenamientohdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 92,
+            "title": "Disco Sólido SSD WD 240GB GREEN 545MB/s",
+            "price": 4902,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/western_digital_ssd_green.jpg",
+            "category": "almacenamientoSsd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 93,
+            "title": "Disco Sólido SSD WD 480GB GREEN 545MB/s SATA",
+            "price": 7956,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/western_digital_ssd_green.jpg",
+            "category": "almacenamientoSsd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 94,
+            "title": "Disco Solido SSD M.2 WD 500GB Blue SN550 2400MB/s NVMe PCI-E x4",
+            "price": 10828,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/Disco_Solido_SSD_M.2_WD_500GB_Blue_SN550_2400MBs_NVMe_PCI-E_x4.jpg",
+            "category": "almacenamientoSdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 95,
+            "title": "Disco Sólido SSD M.2 ADATA 1TB XPG Spectrix S40G RGB 3500MB/s NVMe PCI-E X4",
+            "price": 16.431,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/Disco_Sólido_SSD_M.2_ADATA_1TB_XPG_Spectrix_S40G_RGB_3500MBs_NVMe_PCI-E_X4.jpg",
+            "category": "almacenamientoSdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 96,
+            "title": "Disco Sólido PCIE Gigabyte AORUS RGB AIC 512GB 3480MB/s NVMe",
+            "price": 20800,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/disco_solido_gigabyte_pcie_512gb.jpg",
+            "category": "almacenamientoSdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 97,
+            "title": "Disco Solido SSD Adata 1.92TB SU630 520MB/s",
+            "price": 22674,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/Disco_Solido_SSD_Adata_1.92TB_SU630_520MBs.jpg",
+            "category": "almacenamientoSdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 98,
+            "title": "Disco Solido SSD M.2 Gigabyte 1TB 5000MB/s NVMe PCI-E",
+            "price": 26496,
+            "image": "imagenes/productos/almacenamiento/disco_solido_ssd_interno/Disco_Solido_SSD_M.2_Gigabyte_1TB_5000MBs_NVMe_PCI-E.jpg",
+            "category": "almacenamientoSdd",
+            "tipo": "componentes"
+        },
+        {
+            "id": 99,
+            "title": "Gabinete Xigmatek X7 White Super Tower E-ATX Argb",
+            "price": 21905,
+            "image": "imagenes/productos/gabinetes/Gabinete_Xigmatek_X7_White_Super_Tower_E-ATX_Argb.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 100,
+            "title": "Gabinete Xigmatek X7 Black Super Tower E-ATX Argb",
+            "price": 21905,
+            "image": "imagenes/productos/gabinetes/Gabinete_Xigmatek_X7_Black_Super_Tower_E-ATX_Argb.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 101,
+            "title": "Gabinete GAMER MagnumTech FAN LED - 435R",
+            "price": 2972,
+            "image": "imagenes/productos/gabinetes/Gabinete_GAMER_MagnumTech_FAN_LED_435R.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 102,
+            "title": "Gabinete Naxido X100 LED",
+            "price": 2998,
+            "image": "imagenes/productos/gabinetes/Gabinete_Naxido_X100_LED.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 103,
+            "title": "Gabinete Corsair Carbide SPEC Delta RGB Fans x3",
+            "price": 7665,
+            "image": "imagenes/productos/gabinetes/Gabinete_Corsair_Carbide_SPEC_Delta_RGB_Fans_x3.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 104,
+            "title": "Gabinete Xigmatek Grip X 4 Fans ARGB",
+            "price": 8331,
+            "image": "imagenes/productos/gabinetes/Gabinete_Xigmatek_Grip_X4_Fans_ARGB.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 105,
+            "title": "Gabinete Xigmatek Aquarius Plus Arctic 7x cooler Argb",
+            "price": 23019,
+            "image": "imagenes/productos/gabinetes/Gabinete_Xigmatek_Aquarius_Plus_Arctic_7x_cooler_Argb.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 106,
+            "title": "Gabinete Thermaltake Versa H15 TG Black",
+            "price": 3923,
+            "image": "imagenes/productos/gabinetes/Gabinete_Thermaltake_Versa_H15_TG_Black.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 107,
+            "title": "Gabinete Cooler Master MasterBox Q500L",
+            "price": 5304,
+            "image": "imagenes/productos/gabinetes/Gabinete_Cooler_Master_MasterBox_Q500L.jpg",
+            "category": "gabinete",
+            "tipo": "componentes"
+        },
+        {
+            "id": 108,
+            "title": "Gabinete Cooler Master Masterbox MB311L MATX ARGB + Controladora",
+            "price": 7157,
+            "image": "imagenes/productos/gabinetes/Gabinete_Cooler_Master_Masterbox_MB311L_MATX_ARGB_Controladora.jpg",
+            "category": "gabinete",
+            "tipo": "componentes",
+            "temporada": "oferta"
+        },
+        {
+            "id": 109,
+            "title": "Fuente Gamemax 500W 80 Plus Bronze VP-500-RGB",
+            "price": 4550,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/Fuente_Gamemax_500W_80_Plus_Bronze_VP-500-RGB.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 110,
+            "title": "Fuente Gigabyte 450W 80 Plus Bronze P450B",
+            "price": 4668,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/Fuente_Gigabyte_450W_80_Plus_Bronze_P450B.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 111,
+            "title": "Fuente Gigabyte 550W 80 Plus Bronze P550B",
+            "price": 5519,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/Fuente_Gigabyte_550W_80_Plus_Bronze_P550B.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 112,
+            "title": "Fuente Gamemax 600W 80 Plus Bronze VP-600-RGB",
+            "price": 5580,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/Fuente_Gamemax_600W_80_Plus_Bronze_VP-600-RGB.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 113,
+            "title": "Fuente Gamemax 700W 80 Plus Bronze RGB",
+            "price": 5780,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/Fuente_Gamemax_700W_80_Plus_Bronze_RGB.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 114,
+            "title": "Fuente Gamemax 700W RGB 80 Plus Bronze VP-700-RGB Modular",
+            "price": 6540,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/Fuente_Gamemax_700W_RGB_80_Plus_Bronze_VP-700-RGB_Modular.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 115,
+            "title": "Fuente Corsair CX550F 550W White RGB Full Modular 80 Plus Bronze No incluye cable de poder",
+            "price": 14670,
+            "image": "imagenes/productos/fuentes/80_plus_bronce/fuente_corsair_cx550f_550w_white.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 116,
+            "title": "Fuente Seasonic 500W A12-500 SSR-500RA 80 Plus White",
+            "price": 7999,
+            "image": "imagenes/productos/fuentes/80_plus_white/Fuente_Seasonic_500W_A12-500_SSR-500RA_80_Plus_Whit.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 117,
+            "title": "Fuente Seasonic 600W A12-600 SSR-600RA 80 Plus White",
+            "price": 9340,
+            "image": "imagenes/productos/fuentes/80_plus_white/Fuente_Seasonic_600W_A12-600_SSR-600RA_80_Plus_White.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 118,
+            "title": "Fuente Seasonic 700W A12-700 SSR-700RA 80 Plus White",
+            "price": 9570,
+            "image": "imagenes/productos/fuentes/80_plus_white/Fuente_Seasonic_700W_A12-700_SSR-700RA_80_Plus_White.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 119,
+            "title": "Fuente ASUS ROG THOR 850P 80 Plus Platinum 850W Full modular Black Boxr",
+            "price": 44100,
+            "image": "imagenes/productos/fuentes/80_plus_white/Fuente_ASUS_ROG_THOR_850P_80_Plus_Platinum_850W_Full_modular_Black_Box.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 120,
+            "title": "Fuente ASUS ROG THOR 1200P 80 Plus Platinum 1200W Full modular",
+            "price": 62100,
+            "image": "imagenes/productos/fuentes/80_plus_white/Fuente_ASUS_ROG_THOR_1200P_80_Plus_Platinum_1200W_Full_modular.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 121,
+            "title": "Fuente Corsair HX1200i 1200W 80 Plus Platinum Full Modular",
+            "price": 73190,
+            "image": "imagenes/productos/fuentes/80_plus_white/Fuente_Corsair_HX1200i_1200W_80_Plus_Platinum_Full_Modular.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 122,
+            "title": "Fuente Corsair RM750X Full Modular 80 Plus Gold",
+            "price": 19550,
+            "image": "imagenes/productos/fuentes/80_plus_gold/Fuente_Corsair_RM750X_Full_Modular_80_Plus_Gold.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 123,
+            "title": "Fuente ASUS ROG STRIX 650G 80 Plus Gold 650W Full Modular",
+            "price": 22590,
+            "image": "imagenes/productos/fuentes/80_plus_gold/Fuente_ASUS_ROG_STRIX_650G_80_Plus_Gold_650W_Full_Modular.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 124,
+            "title": "Fuente Corsair RM750X White 80 Plus Gold Full Modular No incluye cable de poder",
+            "price": 23250,
+            "image": "imagenes/productos/fuentes/80_plus_gold/Fuente_Corsair_RM750X_White_80_Plus_Gold_Full_Modular_No_incluye_cable_de_pode.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 125,
+            "title": "Fuente ASUS ROG STRIX 750G 80 Plus Gold 750W Full Modular",
+            "price": 30660,
+            "image": "imagenes/productos/fuentes/80_plus_gold/Fuente_ASUS_ROG_STRIX_750G_80_Plus_Gold_750W_Full_Modular.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        },
+        {
+            "id": 126,
+            "title": "Fuente Corsair RM850X 850W White 80 Plus Gold Modular No incluye cable de poder",
+            "price": 30880,
+            "image": "imagenes/productos/fuentes/80_plus_gold/Fuente_Corsair_RM850X_850W_White_80_Plus_Gold_Modular_No_incluye_cable_de_poder.jpg",
+            "category": "fuenteDePoder",
+            "tipo": "componentes"
+        }, 
+        {
+            "id": 127,
+            "title": "Cpu Cooler Aerocool Air Frost 2 FRGB",
+            "price": 2309,
+            "image": "imagenes/productos/refrigeracion/air_cooling/Cpu_Cooler_Aerocool_Air_Frost_2_FRGB.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes"
+        },
+        {
+            "id": 128,
+            "title": "CPU Cooler Xigmatek WindPower WP963 RGB",
+            "price": 2971,
+            "image": "imagenes/productos/refrigeracion/air_cooling/CPU_Cooler_Xigmatek_WindPower_WP963_RGB.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes"
+        },
+        {
+            "id": 129,
+            "title": "CPU Cooler Cooler Master Hyper 212 LED",
+            "price": 4690,
+            "image": "imagenes/productos/refrigeracion/air_cooling/CPU_Cooler_Cooler_Master_Hyper_212_LED.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes"
+        },
+        {
+            "id": 130,
+            "title": "Cpu Cooler Aerocool Cylon 4F White ARGB",
+            "price": 6452,
+            "image": "imagenes/productos/refrigeracion/air_cooling/Cpu_Cooler_Aerocool_Cylon_4F_White_ARGB.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes"
+        },
+        {
+            "id": 131,
+            "title": "CPU Cooler Cooler Master Hyper 212 LED Turbo ARGB",
+            "price": 8386,
+            "image": "imagenes/productos/refrigeracion/air_cooling/CPU_Cooler_Cooler_Master_Hyper_212_LED_Turbo_ARGB.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes"
+        },
+        {
+            "id": 132,
+            "title": "Cooler CPU Gamemax Ice Chill 120 Water Cooler 120 ARGB",
+            "price": 12820,
+            "image": "imagenes/productos/refrigeracion/liquida/Cooler_CPU_Gamemax_Ice_Chill_120_Water_Cooler_120_ARGB.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes"
+        },
+        {
+            "id": 133,
+            "title": "Cooler CPU Gamemax Ice Chill 240 Water Cooler 240 ARGB",
+            "price": 14820,
+            "image": "imagenes/productos/refrigeracion/liquida/Cooler_CPU_Gamemax_Ice_Chill_240_Water_Cooler_240_ARGB.jpg",
+            "category": "refrigeracion",
+            "tipo": "componentes",
+            "temporada": "oferta"
+        },
+        
+
+
+
+
+
+
+
+        {
+            "id": 134,
+            "title": "Teclado Mecanico Redragon Kumara K552 ES Outemu Blue",
+            "price": 4178,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Mecanico_Redragon_Kumara_K552_ES_Outemu_Blue.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 135,
+            "title": "Teclado Redragon K568 RGB Dark Avenger",
+            "price": 4553,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Redragon_K568_RGB_Dark_Avenger.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 136,
+            "title": "Teclado Optico Fantech MK882 RGB Pantheon",
+            "price": 5649,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Optico_Fantech_MK882_RGB_Pantheon.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 137,
+            "title": "Teclado Redragon K552 Kumara Mecanico RGB White Esp Switch Red",
+            "price": 5926,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Redragon_K552_Kumara_Mecanico_RGB_White_Esp_Switch_Red.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 138,
+            "title": "Teclado Mecanico Redragon Magic Wand PRO K587 RGB",
+            "price": 6611,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Mecanico_Redragon_Magic_Wand_PRO_K587_RGB.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 139,
+            "title": "Teclado Mecanico Redragon Draconic K530 White RGB Inalambrico Outemu Brown",
+            "price": 7221,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Mecanico_Redragon_Draconic_K530_White_RGB_Inalambrico_Outemu_Brown.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 140,
+            "title": "Teclado Redragon K550 Yama Mecanico RGB Negro ESPAÑOL",
+            "price": 7289,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/redragon_k550_yama.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 141,
+            "title": "Teclado Cougar Vantar MX",
+            "price": 7291,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Cougar_Vantar_MX.jpg",
+            "category": "teclado",
+            "tipo": "perifericos",
+            "temporada": "oferta"
+        },
+        {
+            "id": 142,
+            "title": "Teclado Mecanico Logitech PRO RGB Lightsync Switch GX Blue TKL",
+            "price": 8943,
+            "image": "imagenes/perifericos/teclado/teclado_mecanico/Teclado_Mecanico_Logitech_PRO_RGB_Lightsync_Switch_GX_Blue_TKL.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 143,
+            "title": "Teclado Trust Ziva Gaming Rainbow LED",
+            "price": 1322,
+            "image": "imagenes/perifericos/teclado/teclado_de_membrana/Teclado_Trust_Ziva_Gaming_Rainbow_LED.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 144,
+            "title": "Teclado Trust Thado GXT833 TKL Rainbow LED ES",
+            "price": 1657,
+            "image": "imagenes/perifericos/teclado/teclado_de_membrana/Teclado_Trust_Thado_GXT833_TKL_Rainbow_LED_ES.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 145,
+            "title": "Teclado ThermalTake Challenger Prime Led",
+            "price": 2477,
+            "image": "imagenes/perifericos/teclado/teclado_de_membrana/Teclado_ThermalTake_Challenger_Prime_Led.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 146,
+            "title": "Teclado Semi Mecanico MSI Vigor GK20",
+            "price": 3600,
+            "image": "imagenes/perifericos/teclado/teclado_de_membrana/Teclado_Semi_Mecanico_MSI_Vigor_GK20.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 147,
+            "title": "Teclado Kingston HyperX Alloy Core RGB",
+            "price": 4156,
+            "image": "imagenes/perifericos/teclado/teclado_de_membrana/Teclado_Kingston_HyperX_Alloy_Core_RGB.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 148,
+            "title": "Teclado Razer Ornata V2 Chroma RGB Español",
+            "price": 10733,
+            "image": "imagenes/perifericos/teclado/teclado_de_membrana/teclado_razer_ornata.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 149,
+            "title": "Combo Teclado Y Mouse Gamer Trust GXT 838 Azor",
+            "price": 2581,
+            "image": "imagenes/perifericos/teclado/combo_teclado/Combo_Teclado_Y_Mouse_Gamer_Trust_GXT_838_Azor.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 150,
+            "title": "Combo Teclado Y Mouse Logitech MK295 Silent Inalambrico",
+            "price": 2625,
+            "image": "imagenes/perifericos/teclado/combo_teclado/Combo_Teclado_Y_Mouse_Logitech_MK295_Silent_Inalambrico.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 151,
+            "title": "Combo Teclado y Mouse Mars MCP100ES RGB",
+            "price": 2771,
+            "image": "imagenes/perifericos/teclado/combo_teclado/Combo_Teclado_y_Mouse_Mars_MCP100ES_RGB.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 152,
+            "title": "Combo Tec + Mou + Auri + Pad Redragon S101-BA",
+            "price": 4694,
+            "image": "imagenes/perifericos/teclado/combo_teclado/combo_redragon.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 153,
+            "title": "Combo Teclado y Mouse Thermaltake Ttesports Challenger Elite RGB",
+            "price": 5248,
+            "image": "imagenes/perifericos/teclado/combo_teclado/Combo_Teclado_y_Mouse_Thermaltake_Ttesports_Challenger_Elite_RGB.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 154,
+            "title": "Combo Redragon K551RGB-BA-SP Teclado Mitra RGB y Mouse Griffin RGB",
+            "price": 7685,
+            "image": "imagenes/perifericos/teclado/combo_teclado/combo_redragon_k551.jpg",
+            "category": "teclado",
+            "tipo": "perifericos"
+        },
+
+
+
+
+        {
+            "id": 155,
+            "title": "Mouse Havit Gamenote MS1022 RGB 3200 Dpi",
+            "price": 1452,
+            "image": "imagenes/perifericos/mause/Mouse_Havit_Gamenote_MS1022_RGB_3200_Dpi.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 156,
+            "title": "Mouse Redragon Centrophorus M601 RGB",
+            "price": 1518,
+            "image": "imagenes/perifericos/mause/Mouse_Redragon_Centrophorus_M601_RGB.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 157,
+            "title": "Mouse Redragon M607 Griffin",
+            "price": 1635,
+            "image": "imagenes/perifericos/mause/Mouse_Redragon_M607_Griffin.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 158,
+            "title": "Mouse Redragon M710 Memeanlion Chroma",
+            "price": 1908,
+            "image": "imagenes/perifericos/mause/Mouse_Redragon_M710_Memeanlion_Chroma.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 159,
+            "title": "Mouse Logitech G203 Lightsync Azul",
+            "price": 2464,
+            "image": "imagenes/perifericos/mause/Mouse_Logitech_G203_Lightsync_Azul.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 160,
+            "title": "Mouse Redragon M908 IMPACT RGB MOBA Y MMORPG",
+            "price": 2836,
+            "image": "imagenes/perifericos/mause/Mouse_Redragon_M908_IMPACT_RGB_MOBA_Y_MMORPG.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 161,
+            "title": "Mouse Redragon M988 Storm Elite",
+            "price": 3314,
+            "image": "imagenes/perifericos/mause/Mouse_Redragon_M988_Storm_Elite.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 162,
+            "title": "Mouse Logitech G502 LIGHTSPEED",
+            "price": 9231,
+            "image": "imagenes/perifericos/mause/Mouse_Logitech_G502_LIGHTSPEED.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 163,
+            "title": "Mouse Razer Viper Ultimate Mercury Wireless Con Charging Dock",
+            "price": 15771,
+            "image": "imagenes/perifericos/mause/Mouse_Razer_Viper_Ultimate_Mercury_Wireless_Con_Charging_Dock.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 164,
+            "title": "Mouse Logitech G600 Gaming Black RGB",
+            "price": 5215,
+            "image": "imagenes/perifericos/mause/Mouse_Logitech_G600_Gaming_Black_RGB.jpg",
+            "category": "mause",
+            "tipo": "perifericos"
+        },
+
+
+
+        {
+            "id": 165,
+            "title": "Monitor LED 18,5 HP P19b LED HDMI WXGA",
+            "price": 15206,
+            "image": "imagenes/perifericos/monitor/led/Monitor_LED_18,5_HP_P19b_LED_HDMI_WXGA.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 166,
+            "title": "Monitor LED 19 Samsung LS19A330NHL VGA HDM",
+            "price": 15870,
+            "image": "imagenes/perifericos/monitor/led/Monitor_LED_19_Samsung_LS19A330NHL_VGA_HDM.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 167,
+            "title": "Monitor LED 19 LG 19M38A-B",
+            "price": 16625,
+            "image": "imagenes/perifericos/monitor/led/Monitor_LED_19_LG_19M38A-B.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 168,
+            "title": "Monitor LED IPS 22 Samsung T350H LF22T350FHL 75Hz Freesync",
+            "price": 17436,
+            "image": "imagenes/perifericos/monitor/led/Monitor_LED_IPS_22_Samsung_T350H_LF22T350FHL_75Hz_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 169,
+            "title": "Monitor LED 22 LG 22MN430H-B HDMI Freesync",
+            "price": 20248,
+            "image": "imagenes/perifericos/monitor/led/Monitor_LED_22_LG_22MN430H-B_HDMI_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 170,
+            "title": "Monitor LED 27 Asus VA27EHE",
+            "price": 33838,
+            "image": "imagenes/perifericos/monitor/led/Monitor_LED_27_Asus_VA27EHE.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 171,
+            "title": "Monitor LED 32 LG 32GN600-B QHD 165Hz 1Ms HDMI",
+            "price": 74327,
+            "image": "imagenes/perifericos/monitor/165hz/Monitor_LED_32_LG_32GN600-B_QHD_165Hz_1Ms_HDMI.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 172,
+            "title": "Monitor LED 24 VIEWSONIC VX2458-MHD 144Hz Freesync",
+            "price": 36562,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_24_VIEWSONIC_VX2458-MHD_144Hz_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 173,
+            "title": "Monitor LED 24 Acer Gamer KG241Q Sbmiipx 144Hz Overclocking 165Hz Freesync",
+            "price": 36953,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_24_Acer_Gamer_KG241Q_Sbmiipx_144Hz_Overclocking_165Hz_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 174,
+            "title": "Monitor LED 24 LG 24GL600F UltraGear 144Hz Freesync",
+            "price": 40500,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_24_LG_24GL600F_UltraGear_144Hz_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 175,
+            "title": "Monitor LED CURVO 24 Samsung G50 144Hz Freesync",
+            "price": 40549,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_CURVO_24_Samsung_G50_144Hz_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 176,
+            "title": "Monitor LED 24 LG 24GL600B UltraGear 144Hz Freesync IPS",
+            "price": 41527,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_24_LG_24GL600B_UltraGear_144Hz_Freesync_IPS.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 177,
+            "title": "Monitor LED 27 Gaming Gigabyte G27F 144Hz 1Ms IPS Freesync",
+            "price": 51572,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_27_Gaming_Gigabyte_G27F_144Hz_1Ms_IPS_Freesync.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 178,
+            "title": "Monitor LED 27 Asus TUF GAMING VG27VH1B 165HZ 1MS",
+            "price": 62061,
+            "image": "imagenes/perifericos/monitor/144hz/Monitor_LED_24_Asus_TUF_GAMING_VG24VQ_144HZ_1MS.jpg",
+            "category": "monitor",
+            "tipo": "perifericos"
+        },
+
+
+
+        {
+            "id": 179,
+            "title": "Auricular Fantech Fusion HG22",
+            "price": 3866,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_Fantech_Fusion_HG22.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 180,
+            "title": "Auricular cmic Redragon H350 Pandora 7.1 White RGB",
+            "price": 4450,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_cmic_Redragon_H350_Pandora_7.1_White_RGB.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 181,
+            "title": "Auricular Kingston Hyper X Cloud Stinger Core 7.1 Gaming Black",
+            "price": 4744,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_Kingston_Hyper_X_Cloud_Stinger_Core_7.1_Gaming_Black.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 182,
+            "title": "Auricular Kingston Hyper X Cloud II 7.1 Gun Metal",
+            "price": 7538,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_Kingston_Hyper_X_Cloud_II_7.1_Gun_Metal.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 183,
+            "title": "Auricular Razer Kraken Verde",
+            "price": 10297,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_Razer_Kraken_Verde.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 184,
+            "title": "Auricular cmic Logitech G635 7.1",
+            "price": 13100,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_cmic_Logitech_G635_7.1.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 185,
+            "title": "Auricular Kingston Hyper X Cloud Flight Wireless",
+            "price": 13961,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_Kingston_Hyper_X_Cloud_Flight_Wireless.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 186,
+            "title": "Auricular Fantech Mars HQ50",
+            "price": 1374,
+            "image": "imagenes/perifericos/auriculares/surround/Auricular_Fantech_Mars_HQ50.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 187,
+            "title": "Auricular Kingston Hyper X Cloud Stinger Black",
+            "price": 3132,
+            "image": "imagenes/perifericos/auriculares/estereos/Auricular_Kingston_Hyper_X_Cloud_Stinger_Black.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 188,
+            "title": "Auricular Trust GXT 322B Carus PS4",
+            "price": 4317,
+            "image": "imagenes/perifericos/auriculares/estereos/Auricular_Trust_GXT_322B_Carus_PS4.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 189,
+            "title": "Auricular cmic GAMER Redragon H320 LAMIA WHITE RGB",
+            "price": 5372,
+            "image": "imagenes/perifericos/auriculares/estereos/auriculares_redragon_h320.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 190,
+            "title": "Auricular Kingston Hyper X Cloud Alpha Red",
+            "price": 7840,
+            "image": "imagenes/perifericos/auriculares/estereos/Auricular_Kingston_Hyper_X_Cloud_Alpha_Red.jpg",
+            "category": "audifonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 191,
+            "title": "Microfono Gaming Nisuta NSMIC200 Para PC Jack 3.5mm",
+            "price": 1310,
+            "image": "imagenes/perifericos/microfonos/Microfono_Gaming_Nisuta_NSMIC200_Para_PC_Jack_3.5mm.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 192,
+            "title": "Microfono Trust GXT 232 Mantis",
+            "price": 3769,
+            "image": "imagenes/perifericos/microfonos/Microfono_Trust_GXT_232_Mantis.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 193,
+            "title": "Microfono Blue Snowball ICE Black",
+            "price": 6098,
+            "image": "imagenes/perifericos/microfonos/Microfono_Blue_Snowball_ICE_Black.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 194,
+            "title": "Microfono Razer Seiren Mini Ultra Compacto",
+            "price": 7196,
+            "image": "imagenes/perifericos/microfonos/Microfono_Razer_Seiren_Mini_Ultra_Compacto.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 195,
+            "title": "Microfono Redragon Blazar GM300",
+            "price": 8219,
+            "image": "imagenes/perifericos/microfonos/Microfono_Redragon_Blazar_GM300.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 196,
+            "title": "Microfono Blue Yeti Nano Shadow Grey",
+            "price": 11890,
+            "image": "imagenes/perifericos/microfonos/Microfono_Blue_Yeti_Nano_Shadow_Grey.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 197,
+            "title": "Microfono Kingston HyperX QuadCast",
+            "price": 15899,
+            "image": "imagenes/perifericos/microfonos/Microfono_Kingston_HyperX_QuadCast.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 198,
+            "title": "Microfono Blue Yeticaster Negro",
+            "price": 29761,
+            "image": "imagenes/perifericos/microfonos/Microfono_Blue_Yeticaster_Negro.jpg",
+            "category": "microfonos",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 199,
+            "title": "Mouse Pad Redragon P029 FLICK S",
+            "price": 970,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Redragon_P029_FLICK_S.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 200,
+            "title": "Mouse Pad Fantech SVEN MP25",
+            "price": 1263,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Fantech_SVEN_MP25.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 201,
+            "title": "Mouse Pad Fantech SVEN MP35<",
+            "price": 1315,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Fantech_SVEN_MP35.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 202,
+            "title": "Mouse Pad Fantech FIREFLY MPR351S",
+            "price": 2392,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Fantech_FIREFLY_MPR351S.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 203,
+            "title": "Mouse Pad Redragon P009 EPEIUS RGB M",
+            "price": 2902,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Redragon_P009_EPEIUS_RGB_M.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 204,
+            "title": "Mouse Pad Kingston Hyperx Fury Ultra RGB Led",
+            "price": 6298,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Kingston_Hyperx_Fury_Ultra_RGB_Led.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 205,
+            "title": "Mouse Pad Cougar Arena XL Orange",
+            "price": 2305,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Cougar_Arena_XL_Orange.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 206,
+            "title": "Mouse Pad Kingston Hyperx Fury S Pro XL",
+            "price": 2940,
+            "image": "imagenes/perifericos/mause_pad/Mouse_Pad_Kingston_Hyperx_Fury_S_Pro_XL.jpg",
+            "category": "mausePad",
+            "tipo": "perifericos"
+        },
+        {
+            "id": 207,
+            "title": "PC Oficina | AMD Athlon 3000G - A320 - 8GB - 240GB SSD",
+            "price": 40499,
+            "image": "imagenes/pcArmadas/PC_Oficina_CG_04_800.jpg",
+            "category": "pcArmada"
+        },
+        {
+            "id": 208,
+            "title": "PC Diseño | Intel I3 10100F- B460M - 8GB - GT 1030 - 240GB SSD - 1TB",
+            "price": 74699,
+            "image": "imagenes/pcArmadas/PC_Gamer_intel_10100.jpg",
+            "category": "pcArmada"
+        },
+        {
+            "id": 209,
+            "title": "PC Principiante | AMD Ryzen 3 2200G - A320 - 8GB - 240GB SSD",
+            "price": 52800,
+            "image": "imagenes/pcArmadas/PC_Gamer_CG_11_800.jpg",
+            "category": "pcArmada"
+        },
+        {
+            "id": 210,
+            "title": "PC Streaming AMD Ryzen 5 3600XT - B450 - 16GB - RTX 2060 - 240GB SSD - 1TB",
+            "price": 141000,
+            "image": "imagenes/pcArmadas/PC_Streaming_cg_3_800.jpg",
+            "category": "pcArmada"
+        }
+        
+        
+    ]
+}

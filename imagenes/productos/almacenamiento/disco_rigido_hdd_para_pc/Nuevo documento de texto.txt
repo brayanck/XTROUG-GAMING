@@ -1,0 +1,12 @@
+Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s
+4.940
+Disco Rígido Seagate 2TB Barracuda 256MB 7.2K RPM
+7.410
+Disco Rígido WD 3TB PURPLE 64MB SATA 6.0GB/s
+9.620
+Disco Rigido WD 3TB Red NAS 5.4K RPM 64MB
+11.150
+Disco Rigido Seagate 4TB Skyhawk 256MB 5.4K RPM
+11.690
+Disco Rigido WD 4TB Red NAS 5.4K 256MB
+12.310
